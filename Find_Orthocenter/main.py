@@ -48,5 +48,5 @@ def orthocenter(points):
         print("Wrong points input. There is no triangle.")
 
 if __name__ == '__main__':
-    points = [[10, 0], [-2, 8], [6, 0]]
+    points = [[1, 3], [3, 9], [10, 2]]
     orthocenter(points)
