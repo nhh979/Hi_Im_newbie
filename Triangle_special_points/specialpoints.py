@@ -71,3 +71,4 @@ class Specialpoints():
             x = (self.A[0] + self.B[0] + self.C[0]) / 3
             y = (self.A[1] + self.B[1] + self.C[1]) / 3
             return [x, y]
+        
